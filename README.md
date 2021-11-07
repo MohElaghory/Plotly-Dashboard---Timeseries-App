@@ -1,4 +1,4 @@
-This project is a collaboration between **[Mohamed Adel] and [Mohamed Mamdouh](https://github.com/nourmamdouh)**, implemented as an assessment for __Data Visualization Course, AI-pro track, ITI__
+This project is a collaboration between **[Mohamed Adel](https://github.com/mohamedadel1761997) and [Mohamed Mamdouh](https://github.com/nourmamdouh)**, implemented as an assessment for __Data Visualization Course, AI-pro track, ITI__
 
 
 # **Project description**
